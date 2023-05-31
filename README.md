@@ -1,5 +1,5 @@
-# SUMMER_PROJECT
-Real time Driver Drowsiness detection system
+
+# Real time Driver Drowsiness detection system
 STEP-1 Libraries
 I have imported all the necessary libraries: tenserflow, cv2,os, pickle,numpy,patool
 STEP-2 Downloaded the dataset: Drowsiness Detection Dataset | Kaggle
